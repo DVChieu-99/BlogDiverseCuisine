@@ -1,0 +1,22 @@
+.title-main {
+      margin-top: -50px;
+}
+.title-main h2 {
+  color: #3e606b;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 55px;
+  position: relative;
+}
+.btn_post {
+  justify-content: center;
+  align-items: center;
+  margin-left: 50%;
+  margin-top: 25px;
+}
+.discover_item p:hover {  
+  color: rgb(0, 195, 255);
+}
+#iconclick i {
+  padding-top: 100%;
+}
