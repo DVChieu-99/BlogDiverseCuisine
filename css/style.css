@@ -2001,12 +2001,15 @@ i:before {
   position: relative;
   cursor: pointer;
   overflow: hidden;
+  border-radius: 2px;
 }
 
 .cake_feature_item .cake_img img {
   -webkit-transition: all 300ms ease;
   -o-transition: all 300ms ease;
   transition: all 300ms ease;
+  height: 300px;
+  width: 304px;
 }
 
 .cake_feature_item .cake_img:before {
@@ -2066,6 +2069,11 @@ i:before {
   font-family: "Playfair Display", serif;
   margin-bottom: 22px;
   padding-top: 35px;
+}
+
+.cake_feature_item .cake_text h3:hover {
+  color: #e61818;
+  font-size: 21px;
 }
 
 .cake_feature_main {
