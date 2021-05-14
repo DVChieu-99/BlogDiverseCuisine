@@ -1,0 +1,16 @@
+#skillfully {
+  padding-top: 25px;
+}
+#main_title h3{
+  color: #3e606b;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 38px;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+#left-img img{
+  width: 350px;
+  height: 280px;
+}
